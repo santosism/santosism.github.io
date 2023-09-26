@@ -96,8 +96,6 @@ content:
           Every everyone
 
   - title: Education # Title for the section
-
-  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -129,7 +127,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Shena] './images/shenaregal.jpg' Shena'; 
+      ![Shena](./images/shenaregal.jpg)
 
 # Footer
 footer_show_references: true
