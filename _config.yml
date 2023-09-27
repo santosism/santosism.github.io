@@ -102,17 +102,19 @@ content:
         title: BrainStation
         caption: 2023-2023
         sub_title: Diploma in Software Engineering
-        quote: >
-          Become future proof.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    content2: 
+      # -layout:  left
+        title: gener8tor skills
+        caption2: 2023-2023
+        sub_title2: Diploma in Data Analytics
+        description2: |
+          Learned best practices for cleaning data using Excel and Power Query, along with making visual dashboards using PowerBI and SQL database joins. 
 
-          title2: gener8tor skills
-          caption2: 2023-2023
-          sub_title2: Diploma in Data Analytics
-
+    content3: 
           title3: Florida International University
           caption3: 2017-2019
           sub_title3: Master's in Art in English
@@ -127,9 +129,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 -Look at this cool image:
-   <div id="shena-image">
-   <img src="./images/shenaregal.jpg" alt="Shena" width="400" height="200" />
-   </div>
+   <img src=./images/shenaregal.jpg alt="Shena" width="400" height="200" />
 
 # Footer
 footer_show_references: true
