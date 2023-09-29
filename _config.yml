@@ -108,7 +108,7 @@ content:
           During my time at BrainStation,  I learned key Fullstack software engineering skills, including: HTML, CSS, SCSS, Vanilla JavaScript, React, Node.js, and Express.js. I also learned how to work collaboratively using Agile methodology, and version control using Git, and Github to showcase repositories. 
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-    content2: 
+    
       - layout:  left
         title2: gener8tor skills
         caption2: 2023-2023
@@ -116,7 +116,7 @@ content:
         description2: |
           Learned best practices for cleaning data using Excel and Power Query, along with making visual dashboards using PowerBI and SQL database joins. 
 
-    content3: 
+    
       - layout:  left
         title3: Florida International University
         caption3: 2017-2019
