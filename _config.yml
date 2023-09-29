@@ -110,17 +110,17 @@ content:
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
     
       - layout:  left
-        title2: gener8tor skills
-        caption2: 2023-2023
-        sub_title2: Diploma in Data Analytics
-        description2: |
+        title: gener8tor skills
+        caption: 2023-2023
+        sub_title: Diploma in Data Analytics
+        description: |
           Learned best practices for cleaning data using Excel and Power Query, along with making visual dashboards using PowerBI and SQL database joins. 
 
     
       - layout:  left
-        title3: Florida International University
-        caption3: 2017-2019
-        sub_title3: Master's in Art in English
+        title: Florida International University
+        caption: 2017-2019
+        sub_title: Master's in Art in English
 
   - title: A Little More About Me
     layout: text
