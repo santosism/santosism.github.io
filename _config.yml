@@ -86,16 +86,16 @@ content:
 
         # link_text: boringcompany.com
       - layout: left
-        sub_title2: Student Success Coach
-        caption2: November 2022 - May 2023
-        description2: | # this will include new lines to allow paragraphs
+        sub_title: Student Success Coach
+        caption: November 2022 - May 2023
+        description: | # this will include new lines to allow paragraphs
             Advisor for over 163 students in a cohort, first and second years. 
 
       - layout: left
-        sub_title3: Tutor
-        caption3: July 2019- May 2022
-        description3: |
-          Every everyone
+        sub_title: Tutor
+        caption: July 2019- May 2022
+        description: |
+          Gave individual feedback to students on their writing assignments, created and presented workshops focused on writing, and troubleshot Zoom technical issues. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -121,6 +121,8 @@ content:
         title: Florida International University
         caption: 2017-2019
         sub_title: Master's in Art in English
+        description: |
+          Presented papers on literature at academic conferences, created and defended thesis paper, and finished all requirements. 
 
   - title: A Little More About Me
     layout: text
