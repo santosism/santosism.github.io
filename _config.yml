@@ -61,17 +61,15 @@ content:
         description: Browser-based interactive narrative JavaScript game, using React, and command-line terminal inputs  
         projects_image: ./images/amiamistory.png
         # link_text: Project Website
-        additional_links:
-          - title:  City-Life
-            icon: fab fa-github
-            url: https://uvcw.itch.io/city-life
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Ten Days to make 1 game. 
-        new description: | # this will include new lines to allow paragraphs
-          I started this project as a way of creating my own game in  <mark>Unity</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      - layout: top-middle
+        title: City-Life
+        link: https://uvcw.itch.io/city-life
+        description: |
+          Description for the City-Life project goes here.
+        projects_image: ./images/citylife.png
+        quote: "An interesting quote about City-Life."
+        additional_description: |
+          City-Life is another fascinating project. Provide details about the project here.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
