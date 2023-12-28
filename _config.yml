@@ -65,11 +65,10 @@ content:
         title: City-Life
         link: https://uvcw.itch.io/city-life
         description: |
-          Description for the City-Life project goes here.
+          Game made in Unity as part of a ten day game jam. Get to the finish line before your doppelgangers get you!
         projects_image: ./images/citylife.png
         quote: "An interesting quote about City-Life."
-        additional_description: |
-          City-Life is another fascinating project. Provide details about the project here.
+        
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
